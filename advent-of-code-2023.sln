@@ -12,6 +12,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "files", "files", "{62CE5D9A
 		README.md = README.md
 	EndProjectSection
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "day-3", "day-3\day-3.csproj", "{F467D945-6057-4CC2-878F-CE30B3958AF9}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -29,5 +31,9 @@ Global
 		{97BAA719-48D4-40A0-96D0-C7C3FF1BE33D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{97BAA719-48D4-40A0-96D0-C7C3FF1BE33D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{97BAA719-48D4-40A0-96D0-C7C3FF1BE33D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F467D945-6057-4CC2-878F-CE30B3958AF9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F467D945-6057-4CC2-878F-CE30B3958AF9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F467D945-6057-4CC2-878F-CE30B3958AF9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F467D945-6057-4CC2-878F-CE30B3958AF9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
